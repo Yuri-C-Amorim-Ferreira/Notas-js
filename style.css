@@ -1,0 +1,36 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+ul{
+    list-style: none;
+    background: rgb(0.7, 0.7, 1);
+    height: 30px;
+}
+ul li{
+    margin-top: 5px;
+    padding-left: 10px;
+    position: relative;
+    display: inline-block;
+    margin: solid 1px gray;
+}
+ul li a{
+    color: aliceblue;
+    text-decoration: none;
+}
+
+.main-notes{
+    margin-top: 30px;
+    width: 90vw;
+    height: 80vh;
+    text-align: justify;
+}
+
+.titulo{
+    display: inline-block;
+    margin: 10px;
+}
+.save{
+    margin-left: 90vw;
+    display: inline-block;
+}
